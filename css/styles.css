@@ -1,0 +1,16 @@
+/* Custom Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+#menu-section h2 {
+    margin-top: 50px;
+    font-size: 2em;
+    color: #333;
+}
