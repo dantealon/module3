@@ -1,4 +1,4 @@
-# Food Menu Website
+# Responsive-Menu-Project
 
 This project is a responsive food menu website built using HTML, CSS, and JavaScript. It is designed to be mobile-friendly and adjusts its layout based on screen size using media queries and Bootstrap.
 
